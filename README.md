@@ -1,4 +1,7 @@
-Readme
+This is a GUI and CLI representation of a vending machine.
+It was completed as part of an object oriented development module.
+
+To Run:
 -   Downloading zip file, extract all to one folder.
 -   Run "javac *.java" in command line making sure to be in
     the same directory is as files in question.
